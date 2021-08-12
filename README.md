@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mmus3954
-- 👀 I’m interested in Programming (obviously), Photography and Games
-- 🌱 I’m currently learning Java and Javascript
+- 👋 Hi, I’m Munsif!
+- 👀 I’m interested in Programming (obviously), Photography and Computer Games
+- 🌱 I’m currently working with Java and Javascript
 - 💞️ I’m looking to collaborate on any projects that I find interesting
 - 📫 How to reach me mmus3954@sysco.com
 
